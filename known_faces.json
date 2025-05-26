@@ -1,0 +1,36 @@
+{
+    "known_faces": [
+        {
+            "name": "Madhusudhan",
+            "image_path": "C:/images/madhu.jpg"
+        },
+        {
+            "name": "sowjanya",
+            "image_path": "C:/images/sow.jpg"
+        },
+        {
+            "name": "Sathivka",
+            "image_path": "C:/images/sat.jpg"
+        },
+        {
+            "name": "Sunitha",
+            "image_path": "C:/images/sun.jpg"
+        },
+        {
+            "name": "Poojitha",
+            "image_path": "C:/images/poj.jpg"
+        },
+        {
+            "name": "Usha Rani",
+            "image_path": "C:/images/usha.jpg"
+        },
+        {
+            "name": "Hemalatha",
+            "image_path": "C:/images/hema.jpg"
+        },
+        {
+            "name": "Reddeesha",
+            "image_path": "C:/images/reddy.jpg"
+        }
+    ]
+}
